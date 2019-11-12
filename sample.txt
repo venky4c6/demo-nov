@@ -1,5 +1,3 @@
 welcome
-<<<<<<< HEAD
 vadloori
 posanipet
->>>>>>> master
