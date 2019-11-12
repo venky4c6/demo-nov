@@ -2,3 +2,10 @@ merge
 conflict
 vadloori
 venkat
+
+
+hyderabad
+secundrabad
+rangareddy
+kukatpally
+moosapet
