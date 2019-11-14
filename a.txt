@@ -2,8 +2,3 @@ merge
 conflict
 vadloori
 venkat
-
-sai
-malegam
-raju
-vijay
